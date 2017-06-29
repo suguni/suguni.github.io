@@ -12,11 +12,28 @@ https://suguni.github.io/
 This blog is awesome
 </description>
 <lastBuildDate>
-Thu, 29 Jun 2017 10:50:29 +0900
+Thu, 29 Jun 2017 10:57:08 +0900
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
+<item>
+<guid>
+https://suguni.github.io/posts-output/2017-06-29-Initial-commit/
+</guid>
+<link>
+https://suguni.github.io/posts-output/2017-06-29-Initial-commit/
+</link>
+<title>
+Initial commit!
+</title>
+<description>
+&lt;h2 id=&quot;안녕&amp;#95;세상&quot;&gt;안녕 세상&lt;/h2&gt;&lt;p&gt;첫번째 커밋.&lt;/p&gt;&lt;p&gt;emacs org 모드 지원은 안되는 걸까?&lt;/p&gt;
+</description>
+<pubDate>
+Thu, 29 Jun 2017 00:00:00 +0900
+</pubDate>
+</item>
 <item>
 <guid>
 https://suguni.github.io/posts-output/2016-01-07-docs/
