@@ -1,8 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://suguni.github.io/"
 
 languageCode = "ko"
 
 title = "따라쟁이"
+
+theme = "paperback"
 
 # googleAnalytics = "UA-123-45"
 
