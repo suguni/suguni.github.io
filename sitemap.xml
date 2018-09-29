@@ -1,115 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url>
-<loc>
-https://suguni.github.io/404.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/archives/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/authors-output/suguni/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/pages-output/about/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/pages-output/another-page/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/posts-output/2014-03-10-first-post/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/posts-output/2014-11-04-second-post/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/posts-output/2016-01-07-docs/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/posts-output/2017-06-29-Initial-commit/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/tags/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/tags-output/cryogen/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/tags-output/not fetch/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
-<url>
-<loc>
-https://suguni.github.io/tags-output/very fetch/index.html
-</loc>
-<lastmod>
-2017-06-29
-</lastmod>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
