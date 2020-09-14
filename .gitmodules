@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:suguni/suguni.github.io.git
 	branch = master
+[submodule "themes/ink"]
+	path = themes/ink
+	url = https://github.com/knadh/hugo-ink.git
