@@ -6,10 +6,20 @@
     <description>Recent content on 따라쟁이</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 14 Sep 2020 20:40:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 20:45:55 +0900</lastBuildDate>
     
 	<atom:link href="https://suguni.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>이지휴고</title>
+      <link>https://suguni.github.io/post/%EC%9D%B4%EC%A7%80%ED%9C%B4%EA%B3%A0/</link>
+      <pubDate>Mon, 14 Sep 2020 20:45:55 +0900</pubDate>
+      
+      <guid>https://suguni.github.io/post/%EC%9D%B4%EC%A7%80%ED%9C%B4%EA%B3%A0/</guid>
+      <description>emacs easy hugo
+이걸로 쓰면&amp;hellip;</description>
+    </item>
     
     <item>
       <title>New Arrival</title>
