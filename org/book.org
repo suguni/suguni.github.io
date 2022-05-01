@@ -1,0 +1,12 @@
+#+TITLE: General Post
+#+HUGO_BASE_DIR: ..
+#+HUGO_SECTION: post
+#+HUGO_AUTO_SET_LASTMO: t
+
+* TODO OAuth 2 in Action
+:PROPERTIES:
+:EXPORT_FILE_NAME: oauth-2-in-action
+:END:
+
+oauth2
+*OAuth 2 in action* in post dir!!!
