@@ -1,9 +1,0 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod
-[submodule "themes/paperback"]
-	path = themes/paperback
-	url = https://github.com/damiencaselli/paperback
-[submodule "themes/ink"]
-	path = themes/ink
-	url = https://github.com/knadh/hugo-ink.git
