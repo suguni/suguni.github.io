@@ -1,5 +1,5 @@
 +++
-title = "blogging, emacs, ox-hugo, hugo"
+title = "blogging, emacs, ox-hugo, hugo, github"
 author = ["Steve Yu"]
 publishDate = 2021-10-23T21:00:00+09:00
 tags = ["emacs", "hugo"]
@@ -7,6 +7,19 @@ draft = false
 +++
 
 블로깅을 시작하겠다고 hugo 셋팅하고 간단하게 github 에다 테스트 같은 포스트 하나 올려놓고 방치해 놨었는데 이제 진짜 해보려 한다. 블로깅 환경은 hugo, emacs, ox-hugo, github page 이다. 흐름은 emacs 에서 org 문서 형태로 포스트 작성하고 ox-hugo 를 이용해 hugo markdown 파일로 변환한 후, 미리 작성된 스크립트로 publish 하게 된다. hugo - github 연동은 잘 알려진 내용이니 ox-hugo - hugo 부분만 간단히 정리한다.
+
+
+## github action {#github-action}
+
+<span class="timestamp-wrapper"><span class="timestamp">[2022-05-01 Sun] </span></span> 추가
+
+최근에 JAMstack 이라는 용어가 눈에 띄어 찾아 보다 여기가 생각나서 github action 으로 편하게 사용할 수 있는 방법이 있음을 알게 되었다.
+
+<https://gohugo.io/hosting-and-deployment/hosting-on-github/> 참고. github action 설정 파일만 추가하면 된다.
+
+github page 저장소와 소스 저장소가 분리되어 있어 정리하는 과정이 있긴 했지만, 큰 수고 없이 좀 더 편하게 deploy 할 수 있게 되었다.
+
+이전에 분리했던 이유는 아마도 퍼블리쉬 전 소스를 private 으로 관리하고자 하는 의도였을거 같은데 딱히 그럴 필요도 없고 실제로도 private 도 아니었다.
 
 
 ## 왜 ox-hugo 를 써야 할까? {#왜-ox-hugo-를-써야-할까}
