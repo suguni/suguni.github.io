@@ -1,3 +1,9 @@
 [submodule "themes/monochrome"]
 	path = themes/monochrome
 	url = https://github.com/kaiiiz/hugo-theme-monochrome.git
+[submodule "themes/simple-style"]
+	path = themes/simple-style
+	url = https://github.com/yanlinlin82/simple-style.git
+[submodule "themes/hugo-vitae"]
+	path = themes/hugo-vitae
+	url = https://github.com/dataCobra/hugo-vitae.git

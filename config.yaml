@@ -1,24 +1,9 @@
 baseURL: 'https://suguni.github.io/'
 languageCode: ko
 title: SlipBox
-theme: monochrome
+theme: hugo-vitae
+
+copyright: "(c) 2022. ysk"
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
-
-params:
-  footer: "(c) 2022. ysk"
-  enable_toc: false
-  enable_math: true
-  enable_site_search: true
-  enable_zooming_js: true
-
-menu:
-  navbar:
-    - identifier: about
-      name: about
-      title: about
-      url: /about/
-    - identifier: post
-      name: post
-      url: /post/
