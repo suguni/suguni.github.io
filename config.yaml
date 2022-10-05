@@ -1,7 +1,7 @@
 baseURL: 'https://suguni.github.io/'
 languageCode: ko
 title: SlipBox
-theme: hugo-vitae
+theme: "cactus"
 
 copyright: "(c) 2022. ysk"
 
