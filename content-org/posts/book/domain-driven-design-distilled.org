@@ -1,4 +1,3 @@
-#+hugo_base_dir: ../../..
 #+hugo_tags: DDD
 #+hugo_categories: book
 #+title: Domain-Driven Design Distilled
