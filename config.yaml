@@ -1,9 +1,37 @@
-baseURL: 'https://suguni.github.io/'
+baseURL: https://suguni.github.io/
 languageCode: ko
 title: SlipBox
-theme: "cactus"
+theme: cactus
+copyright: ysk
 
-copyright: "(c) 2022. ysk"
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Writings
+      url: /posts
+      weight: 2
+    - name: Tags
+      url: /tags
+      weight: 3
+    # - name: Categories
+    #   url: /categories
+    #   weight: 4
+    # - name: Quotes
+    #   url: /quotes
+    #   weight: 5
 
-outputs:
-  home: ["HTML", "RSS", "JSON"]
+params:
+  description: 아마도 프로그래밍과 관련된 글들을 아주 가끔씩 올리는 블로그가 될 거 같습니다. 앞으로는 안지우려구요.
+  colortheme: light # dark, light, white, or classic
+
+  social:
+    - name: twitter
+      link: https://twitter.com/suguni
+    # - name: github
+    #   link: https://github.com/suguni
+    - name: linkedin
+      link: https://www.linkedin.com/in/steve-yu-6b426642/
+    - name: email
+      link: suguni@gmail.com

@@ -1,8 +1,9 @@
 +++
-title = "blogging, emacs, ox-hugo, hugo, github"
+title = "Blogging Hugo Emacs"
 author = ["Steve Yu"]
-publishDate = 2021-10-23T21:00:00+09:00
-tags = ["emacs", "hugo"]
+date = 2021-10-23
+tags = ["emacs", "hugo", "blogging"]
+categories = ["life"]
 draft = false
 +++
 

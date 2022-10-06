@@ -1,8 +1,10 @@
 +++
 title = "Unit Testing"
 author = ["Steve Yu"]
-publishDate = 2022-05-01T22:00:00+09:00
-draft = false
+date = 2022-05-01
+tags = ["unittest"]
+categories = ["book"]
+draft = true
 +++
 
 TDD 까지는 아니더라도 어떻게 하면 좋은 테스트 코드를 작성할 것인가는 늘 어려운 문제였다. 어떻게든 작성해 보려고 하지만 올바른 테스트 코드인지 판단이 잘 안되고 커밋하더라도 어느 순간 관리되지 않는 코드가 되기 십상이었다.

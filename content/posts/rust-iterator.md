@@ -1,6 +1,9 @@
 +++
-title = "Iterator, IntoIterator, iter, iter_mut, into_iter"
+title = "Iterator, IntoIterator, Iter, IterMut, IntoIter, iter, iter_mut, into_iter"
 author = ["Steve Yu"]
+date = 2022-10-05
+tags = ["rust"]
+categories = ["programming"]
 draft = false
 +++
 

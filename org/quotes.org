@@ -1,8 +1,0 @@
-#+TITLE: 인용구
-#+HUGO_BASE_DIR: ..
-#+HUGO_SECTION: post
-#+HUGO_AUTO_SET_LASTMO: t
-
-** 시스템 구조는 그 시스템을 설계하는 조직의 통신 구조를 그대로 따라갈 수 밖에 없다.
-
-Melvin Conway, 1968.4, How do committes invent?
