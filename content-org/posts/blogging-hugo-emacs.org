@@ -1,5 +1,4 @@
 #+title: Blogging Hugo Emacs
-#+hugo_base_dir: ../..
 #+hugo_tags: emacs hugo blogging
 #+hugo_categories: life
 #+date: 2021-10-23

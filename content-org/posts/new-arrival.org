@@ -1,5 +1,4 @@
 #+title: New Arrival
-#+hugo_base_dir: ../..
 #+hugo_tags: blogging
 #+hugo_categories: life
 #+date: 2020-09-14
