@@ -1,6 +1,0 @@
-#+title: New Arrival
-#+hugo_tags: blogging
-#+hugo_categories: life
-#+date: 2020-09-14
-
-다시 hugo 블로그를 셋업했다.
