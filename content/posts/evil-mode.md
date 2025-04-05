@@ -4,7 +4,7 @@ author = ["Steve Yu"]
 date = 2022-01-03
 tags = ["emacs"]
 categories = ["emacs"]
-draft = false
+draft = true
 +++
 
 요 몇일동안 vi를 공부 했는데, 그 동안 에디터를 제대로 활용하고 있지 못했구나라는 생각이 든다.
