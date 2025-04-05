@@ -4,7 +4,7 @@ author = ["Steve Yu"]
 date = 2021-10-23
 tags = ["emacs", "hugo", "blogging"]
 categories = ["life"]
-draft = false
+draft = true
 +++
 
 블로깅을 시작하겠다고 hugo 셋팅하고 간단하게 github 에다 테스트 같은 포스트 하나 올려놓고 방치해 놨었는데 이제 진짜 해보려 한다. 블로깅 환경은 hugo, emacs, ox-hugo, github page 이다. 흐름은 emacs 에서 org 문서 형태로 포스트 작성하고 ox-hugo 를 이용해 hugo markdown 파일로 변환한 후, 미리 작성된 스크립트로 publish 하게 된다. hugo - github 연동은 잘 알려진 내용이니 ox-hugo - hugo 부분만 간단히 정리한다.

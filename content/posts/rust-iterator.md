@@ -4,7 +4,7 @@ author = ["Steve Yu"]
 date = 2022-10-05
 tags = ["rust"]
 categories = ["programming"]
-draft = false
+draft = true
 +++
 
 처음 rust 를 배우기 시작 했을때 Iterator 는 다른 언어들에서도 쉽게 봐왔던거라 어렵지 않게 넘어갔었는데, 이후 여러 코드를 보면 볼수록 정확히 모르고 있구나 라고 생각되던 상황에 [Rust Stream: Iterators](https://www.youtube.com/watch?v=lQt0adYPdfQ&t=4158s) 동영상을 보고 나름 개념정리가 된 듯 하여 글로 작성해 둔다.
