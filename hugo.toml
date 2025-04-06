@@ -1,7 +1,7 @@
 baseURL = 'https://dec22.kr/'
 languageCode = 'ko-kr'
 title = 'dec22'
-theme = "ananke"
+theme = 'archie'
 
 [caches]
   [caches.images]
