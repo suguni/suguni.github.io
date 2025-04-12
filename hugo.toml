@@ -1,8 +1,18 @@
 baseURL = 'https://blog.dec22.kr/'
 languageCode = 'ko-kr'
 title = 'dec22'
-theme = 'archie'
+theme = 'terminal'
+
+[params]
+  fullWidthTheme = false
+  centerTheme = false
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    max = ''
+    min = '0.90.0'

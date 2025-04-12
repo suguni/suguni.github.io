@@ -1,10 +1,22 @@
 +++
-title = "GitHub pages reboot 그리고 custom domain"
+title = "GitHub pages reboot, custom domain 그리고 삽질"
 author = ["ysk"]
 date = 2025-04-06T09:23:00+09:00
 tags = ["tool"]
 draft = false
 +++
+
+## 업데이트 {#업데이트}
+
+
+### <span class="timestamp-wrapper"><span class="timestamp">[2025-04-12 Sat] </span></span> `404` {#404}
+
+일주일 지나서 <https://dec22.kr> 로 접근했더니 GitHub 404 페이지가 출력된다. 설정을 다시 정리해 보면, 네임서버에서 A 레코드는 `dec22.kr / 185.199.108.153` 이고 CNAME 별칭은 지정하지 않았으며, GitHub에서 Custom domain은 `blog.dec22.kr` 로 되어 있었다.
+
+아마도 A 레코드가 GitHub IP로 되어 있지만 커스텀 도메인이 `dec22.kr` 이 아니니 연결하지 못하고 `404` 가 되는것 같다. 그래서, A 레코드를 삭제하고 CNAME 별칭을 `blog.dec22.kr` 와 GitHub 페이지 도메인으로 연결해 보았다. 잠시 후 접속해 보니 <https://dec22.kr> 는 GitHub로 연결되지 않고 `404`, <https://blog.dec22.kr> 는 기존대로 정상 연결된다.
+
+흠. 일단 그냥 두기로 하자.
+
 
 ## 진행 {#진행}
 
