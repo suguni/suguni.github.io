@@ -1,6 +1,6 @@
 +++
 title = "The Games of 2025"
-author = ["Steve Yu"]
+author = ["ysk"]
 date = 2025-04-13T23:21:00+09:00
 tags = ["game"]
 draft = false

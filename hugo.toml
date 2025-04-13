@@ -1,5 +1,5 @@
 baseURL = 'https://blog.dec22.kr/'
-languageCode = 'ko-kr'
+defaultContentLanguage = 'ko'
 title = 'dec22'
 theme = 'terminal'
 
@@ -16,3 +16,14 @@ theme = 'terminal'
     extended = true
     max = ''
     min = '0.90.0'
+
+[languages]
+  [languages.ko]
+    languageCode = 'ko-KR'
+    title = 'dec22'
+
+    [languages.ko.params]
+      owner = 'ysk'
+
+      [languages.ko.params.logo]
+        logoText = 'dec22'
