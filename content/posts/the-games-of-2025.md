@@ -3,14 +3,31 @@ title = "The Games of 2025"
 author = ["ysk"]
 date = 2025-04-13T23:21:00+09:00
 tags = ["game"]
-draft = false
+draft = true
 +++
+
+## <span class="org-todo todo ON">ON</span> Clair Obscure: Expedition 33 <span class="tag"><span class="gamepass">gamepass</span></span> {#clair-obscure-expedition-33}
+
+첫 인상으로 음악이 너무 좋다. 프랑스 스튜디오에서 개발한 작품인데다 음악의 가사도 프랑스어라, 더빙도 프랑스어로 설정하고 진행. 어짜피 잘 안들리는데 이게 더 느낌 있다.
+
+<span class="timestamp-wrapper"><span class="timestamp">[2025-06-06 Fri] </span></span> 이제 2막을 끝냈다. 플레이 타임이 짧아서 아쉽다는 얘기가 있던데, 나에게는 그렇지 않다.
+
 
 ## <span class="org-todo todo ON">ON</span> South of Midnight <span class="tag"><span class="gamepass">gamepass</span></span> {#south-of-midnight}
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-04-11 Fri]</span></span>--
-
 초반 4시간 정도 진행. 액션 어드벤처 게임이지만, 액션보다는 어드벤처, 이야기, 음악에 더 강점이 있어 보인다. 극 초반 살짝 어색해 보이는 점이 있었는데 익숙해 지니 배경 음악과 함께 이야기에 집중하게 된다.
+
+
+## <span class="org-todo done DONE">DONE</span> Blue Prince <span class="tag"><span class="gamepass">gamepass</span></span> {#blue-prince}
+
+45일 만에 도착, 하루에 방 하나씩 찾은건가?
+
+두어가지 힌트를 참고했지만, 대부분 직접 해결했다. 마지막 날은 중요한 순간 순간에 필요한 것들이 얻어져서 끝까지 도착하게 의도적으로 동작하는 느낌이 들었다. 보통 20~25일이면 도착한다고 하는데 난 1.5배는 더 걸린거 같다. 평소 나의 게임 실력으로는 이정도면 준수한 수준.
+
+전반적으로 난이도가 높다. 한글 번역이 없어 게임중 나오는 실마리를 제대로 캐치하지 못한것 같고, 주인공과 그 가문의 배경 이야기가 몇가지 나오는거 같은데 그것도 제대로 읽지 못한거 같다 아쉽다.
+
+매번 반복되는 상황인데다, 마지막 목표까지 확인했는데도 불구하고 랜덤한 특성으로 끝낼수 있을까 하는 생각이 들었다. 정말 부러진 레버를 얻은 순간은 감탄과 함께 이제 좀 끝내지라는? 의도 처럼 생각되었다.
 
 
 ## <span class="org-todo done DONE">DONE</span> Syberia <span class="tag"><span class="steam">steam</span></span> {#syberia}

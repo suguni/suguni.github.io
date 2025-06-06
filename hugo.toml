@@ -6,6 +6,8 @@ theme = 'terminal'
 [params]
   fullWidthTheme = false
   centerTheme = false
+  contentTypeName = "posts"
+  showMenuItems = 2
 
 [caches]
   [caches.images]
@@ -27,3 +29,13 @@ theme = 'terminal'
 
       [languages.ko.params.logo]
         logoText = 'dec22'
+
+    [languages.ko.menu]
+      [[languages.ko.menu.main]]
+        identifier = "posts"
+        name = "Post"
+        url = "/posts"
+      [[languages.ko.menu.main]]
+        identifier = "notes"
+        name = "Note"
+        url = "/notes"
