@@ -3,20 +3,31 @@ title = "The Games of 2025"
 author = ["ysk"]
 date = 2025-04-13T23:21:00+09:00
 tags = ["game"]
-draft = true
+draft = false
 +++
-
-## <span class="org-todo todo ON">ON</span> Clair Obscure: Expedition 33 <span class="tag"><span class="gamepass">gamepass</span></span> {#clair-obscure-expedition-33}
-
-첫 인상으로 음악이 너무 좋다. 프랑스 스튜디오에서 개발한 작품인데다 음악의 가사도 프랑스어라, 더빙도 프랑스어로 설정하고 진행. 어짜피 잘 안들리는데 이게 더 느낌 있다.
-
-<span class="timestamp-wrapper"><span class="timestamp">[2025-06-06 Fri] </span></span> 이제 2막을 끝냈다. 플레이 타임이 짧아서 아쉽다는 얘기가 있던데, 나에게는 그렇지 않다.
-
 
 ## <span class="org-todo todo ON">ON</span> South of Midnight <span class="tag"><span class="gamepass">gamepass</span></span> {#south-of-midnight}
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-04-11 Fri]</span></span>--
 초반 4시간 정도 진행. 액션 어드벤처 게임이지만, 액션보다는 어드벤처, 이야기, 음악에 더 강점이 있어 보인다. 극 초반 살짝 어색해 보이는 점이 있었는데 익숙해 지니 배경 음악과 함께 이야기에 집중하게 된다.
+
+
+## <span class="org-todo done DONE">DONE</span> Clair Obscure: Expedition 33 <span class="tag"><span class="gamepass">gamepass</span></span> {#clair-obscure-expedition-33}
+
+첫 인상으로 음악이 너무 좋다. 프랑스 스튜디오에서 개발한 작품인데다 음악의 가사도 프랑스어라, 더빙도 프랑스어로 설정하고 진행. 어짜피 잘 안들리는데 이게 더 느낌 있다.
+
+<span class="timestamp-wrapper"><span class="timestamp">[2025-06-06 Fri]</span></span>
+이제 2막을 끝냈다. 플레이 타임이 짧아서 아쉽다는 얘기가 있던데, 나에게는 그렇지 않다.
+
+오전에 2막 끝냈다고 적었는데, 오후에 3막까지 해서 모두 클리어.
+스토리, 음악 끝까지 몰입하게 만든다. 전투는 후반으로 가면 갈수록 익숙해져서 이제 좀 할만하다고 생각했더니 클리어.
+훨씬 더 많이 돌아다니며 발견할것들이 있을거 같지만, 일단 여기까지.
+
+JRPG 턴제만 익숙해 질 수 있다고 하면 강추 게임이다.
+
+["꽃이 시들기 전에" 클레르 옵스퀴르, 두 결말의 의미, 그리고 애도](https://www.youtube.com/watch?v=DpCrVu6YYgA) 게임을 다 끝낼때까지 기다리다 본 영상이다. 게임의 줄거리와 그 의미를 잘 정리해 준다.
+
+다음 게임은? South of Midnight 는 좀 더 미뤄두고, Kingdom Come Deliverance 으로 하련다. 1편이다.
 
 
 ## <span class="org-todo done DONE">DONE</span> Blue Prince <span class="tag"><span class="gamepass">gamepass</span></span> {#blue-prince}
