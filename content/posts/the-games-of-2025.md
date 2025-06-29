@@ -9,6 +9,9 @@ draft = false
 ## <span class="org-todo todo ON">ON</span> Kingdom Come: Deliverance <span class="tag"><span class="xbox">xbox</span></span> {#kingdom-come-deliverance}
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-06-08 Sun]</span></span>
+
+{{< figure src="/ox-hugo/a.jpg" width="300px" >}}
+
 시작한지는 조금 되었지만, 오늘 튜토리얼 파트를 끝내고 본격 시작이다. 급하게 결말로 가지 말고 천천히 역사를 읽어가면서 플레이할 계획이다. 어바우드 한글버전 출시 전(8월 예상)까지 이 게임을 하면 될테니 2달 정도 예상한다. 그리고 연말에는 kingdom Come: Deliverance 2 를 구매하게 되지 않을까 싶다.
 
 1300년대 말부터 1400년대 초반을 배경으로 하는 게임으로 당시 중세의 모습을 잘 설명하데 그거 읽는 재미가 크다. 이 게임 하고 나면 중세 책을 읽어볼까 한다.
