@@ -3,9 +3,12 @@ defaultContentLanguage = 'ko'
 title = 'dec22'
 theme = 'terminal'
 
+[markup.highlight]
+  noClasses = false
+
 [params]
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
   contentTypeName = "posts"
   showMenuItems = 2
 
