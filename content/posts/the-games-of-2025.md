@@ -6,6 +6,39 @@ tags = ["game"]
 draft = false
 +++
 
+## <span class="org-todo todo ON">ON</span> Drova - Forsaken kin <span class="tag"><span class="steam">steam</span></span> {#drova-forsaken-kin}
+
+출시되고 1년이 되었는데 공식 한글화 되었다. 훌륭한 게임!
+
+
+## <span class="org-todo todo ON">ON</span> Pillar's of Eternity I <span class="tag"><span class="steam">steam</span></span> {#pillar-s-of-eternity-i}
+
+스팀에서 한글 버전을 구매해서 하얀 산맥 진행 시작
+
+<span class="timestamp-wrapper"><span class="timestamp">[2025-11-16 Sun] </span></span> 턴제 모드가 추가된 베터 버전 업데이트가 나와서, 처음부터 다시 진행 중
+길디드 베일에 지하 신전이 있었는데, 지난번엔 그냥 지나치고 넘어갔었다.
+
+
+## <span class="org-todo todo ON">ON</span> 메타포 리판타지오 <span class="tag"><span class="gamepass">gamepass</span></span> {#메타포-리판타지오}
+
+일본 에니메이션을 보는듯한 느낌?
+게임을 하는 것인지 잘 모르겠다.
+
+
+## <span class="org-todo todo ON">ON</span> [Warhammer 40k RougeTrader](/Users/suguni/notes/denote/20250921T222018--warhammer-40k-rougetrader__game.org) <span class="tag"><span class="steam">steam</span></span> {#warhammer-40k-rougetrader--users-suguni-notes-denote-20250921t222018-warhammer-40k-rougetrader-game-dot-org}
+
+
+## <span class="org-todo todo ON">ON</span> Hollow Knight: Silksong <span class="tag"><span class="xbox">xbox</span><span class="gamepass">gamepass</span></span> {#hollow-knight-silksong}
+
+드디어 실크송이다. 일단 어바우드는 접어두고 이걸로.
+할로우 나이트의 익숙함이 그대로이다. 좀 더 다양해진 이야기가 있는거 같다. 기존작과 어떤 연결점을 가지고 있을지가 기대된다.
+
+
+## <span class="org-todo todo ON">ON</span> Roadwarden <span class="tag"><span class="steam">steam</span></span> {#roadwarden}
+
+예전에 구매한 게임으로, 사실상 텍스트 RPG 이다. 그 텍스트는 당연히 영어이다. 그래서 그 동안 못하고 있었는데, 한글패치가 있다는 것을 발견하고 시작해 보련다.
+
+
 ## <span class="org-todo todo ON">ON</span> Kingdom Come: Deliverance <span class="tag"><span class="xbox">xbox</span></span> {#kingdom-come-deliverance}
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-06-08 Sun]</span></span>
@@ -21,6 +54,81 @@ draft = false
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-04-11 Fri]</span></span>--
 초반 4시간 정도 진행. 액션 어드벤처 게임이지만, 액션보다는 어드벤처, 이야기, 음악에 더 강점이 있어 보인다. 극 초반 살짝 어색해 보이는 점이 있었는데 익숙해 지니 배경 음악과 함께 이야기에 집중하게 된다.
+
+
+## <span class="org-todo done DONE">DONE</span> The Wolf Among Us <span class="tag"><span class="steam">steam</span></span> {#the-wolf-among-us}
+
+모험러의 디스패치 플레이 재밌게 봄.
+플레이 보면서 텔테일 게임들이 게임이라기 보다는 인터랙티브 드라마/무비에 가까운걸 알게됨.
+디스패치도 플레이 보다는 전체 스토리를 마불 드라마를 보는것과 같은 느낌으로 재밌게 봄.
+이 스튜디오의 다른 게임 바로 이전 작품이 The Wolf Among Us 라고...(확실치 않음)
+예전에 시작했다 영어 읽기가 안되서 나뒀는데, 유저 한글 패치 받아서 (품질 좋음) 진행.
+초반 이야기 전개는 흥미롭긴 함
+
+옴... 스토리 끝까지 본거 같은데, 한글 패치 이슈인지 마지막이 이상했다. 영어로 놔두고 다시 봐야 할 듯
+
+나름 재밌게 했다. 선택지간 디테일한 흐름에 어색한 부분이 있긴 했지만, 그래도 추리물 드라마를 보는것 같은 느낌으로 재밌게 함.
+
+인텔 iMac + crossover 으로 하다 m1 맥북프로 + crossover 로 변경했는데,
+호환성 문제가 아주 안좋다. 어떻게든 게임은 진행했지만 사운드 문제도 있고, 랙도 많고 아쉬운 부분이었음
+
+텔테일 다른 게임도 한번 시도해 봐야겠다.
+
+
+## <span class="org-todo done DONE">DONE</span> Split Fiction <span class="tag"><span class="xbox">xbox</span></span> {#split-fiction}
+
+It takes two 이후 오랜만에 하는 2인 협동 게임
+병현이 입대 전 같이 얘기하는 시간을 가지고자 시작했다.
+다행히 전날(<span class="timestamp-wrapper"><span class="timestamp">[2025-11-24 Mon]</span></span>) 12시전에 엔딩을 봤고,
+게임 얘기밖에는 안했지만 그래도 길게 얘기하는 시간을 가져서 좋았음.
+
+
+## <span class="org-todo done DONE">DONE</span> The Outer Worlds <span class="tag"><span class="gamepass">gamepass</span></span> {#the-outer-worlds}
+
+2편이 출시된지라 1편부터 해 보기로, 일단 킹덤컴, 로그트레이더는 좀 이따.
+이거 생각보다 퀘스트들 이야기가 재밌다. 그동안 옵시디언은 필러스지라는 생각만 했었나 보다.
+
+끝은 보기는 했지만 별 의미가 없다. 어느 시점인지는 잘 모르겠지만 갑자기 흥미가 확 떨어져 버려서 빨리 메인 퀘스트만 진행하며 끝내자라는 마음이었다. 내 선택지가 어떤 의미인지도 잘 모르겠다.
+
+
+## <span class="org-todo done DONE">DONE</span> Keeper <span class="tag"><span class="gamepass">gamepass</span></span> {#keeper}
+
+단순한 워킹 시뮬레이터인줄 알았는데, 하면 할수록 재밌어진다.
+커뮤니티에서 실망과 다양성을 얘기하던 글을 보고 아무래도 게임 자체에는 큰 기대를 하지 않았는데, 꽤 재밌고 몰입감 있다.
+
+3단 변신이라니. 몇 군데 말고는 전반적으로 어렵지 않은 퍼즐, 길찾기가 제일 어려웠어요. 그렇지만 마지막까지 흥미로운 게임이었다. 요즘은 10시간 정도의 스토리 중심 짧은 게임이 좋다.
+
+앞으로도 이런 게임이 많이 나왔으면 하지만, 돈이 될지... 흠
+
+
+## <span class="org-todo done DONE">DONE</span> Coffee Talk <span class="tag"><span class="steam">steam</span></span> {#coffee-talk}
+
+2025 스팀 가을 세일 구매
+예전 gamepass 에 있었을 때 잠깐 했었는데, 잠들기 전 잠깐씩 하기 참 좋았던 기억이 있었음.
+짧을거라고 생각했지만, 생각보다 더 짧은 듯. 3시간 정도?
+
+
+## <span class="org-todo done DONE">DONE</span> Avowed <span class="tag"><span class="xbox">xbox</span><span class="gamepass">gamepass</span></span> {#avowed}
+
+역시 한글로 읽어야 제대로 하는 느낌이 든다.
+흠... 에오라 세계의 흥미로운 이야기를 더 알아가는 재미는 있었지만,
+게임 속 이야기 진행이 막 와닿지는 않는다.
+대화의 선택지와 전개가 자연스럽지 못하다고 느껴지는데 번역의 문제인지 원래 그런 것인지 모르겠다. 아니면 나의 집중력이 좋지 못한 것일지도.
+2회차를 하면 좀 더 재미를 느낄지도 모르겠으나, 아마도 2회차는 없을거 같다.
+필러스 세계를 안다면 추천이지만 그렇지 않다면 추천은 못할거 같다.
+
+
+## <span class="org-todo done DONE">DONE</span> Cyberpunk 2077 <span class="tag"><span class="xbox">xbox</span></span> {#cyberpunk-2077}
+
+2회차, 글 쓰는 시점에 막 실버핸드를 만났다.
+다회차 플레이가 재미 없을꺼라 생각하지만, 오히려 전체적인 맥락을 알고 있으니 디테일을 볼 수 있는 기회가 더 많아지고, 그에 따라 몰입도도 더 높아지는거 같다.
+물론 게임에 따라 달라질텐데, 이 게임은 나처럼 메인 목표 중심으로 하는 플레이 방식으로는 한번에 게임 세계 모두를 경험할 수는 없을거 같다.
+3가지 엔딩을 하루에 다 봤다. 대신 팬터리버티는 포기.
+이제야 결말을 제대로 이해한듯.
+
+이번에 본 엔딩은 자살, 절제, 별 이다. 1회차에 본 엔딩은 아마도 태양이었던거 같다. 마지막에 전설이 되고, 우주 정거장으로 가면서 끝나는 것으로 기억한다.
+
+다음에 한번 더 한다면 아라사카 단독 돌입을 해 보고 싶다. 물론 엔딩이 달라지지는 않지만 이전 엔딩들에서는 스토리상 주변인들의 사망이 기분이 좋지 않았다.
 
 
 ## <span class="org-todo done DONE">DONE</span> Clair Obscure: Expedition 33 <span class="tag"><span class="gamepass">gamepass</span></span> {#clair-obscure-expedition-33}
