@@ -101,4 +101,9 @@ let z = *y;   // z 는 i32
 let w = y;    // w 는 &i32
 ```
 
+
+## 나가며 {#나가며}
+
 팀에서 call by value, call by reference 로 얘기를 나누다 살짝쿵 민망한 적이 있었는데, 결국 이것도 요 개념들을 제대로 이해하지 못했던 무지였던거 같다.
+
+이 글을 쓰게된 시작점은 [use ＜'lifetimes＞ for ＜'what＞ - Ethan Brierley](https://www.youtube.com/watch?v=50hfyCecNag) 4분 쯤의 내용.

@@ -6,6 +6,12 @@ tags = ["game"]
 draft = false
 +++
 
+## <span class="org-todo todo ON">ON</span> Baldur's Gate 3 <span class="tag"><span class="steam">steam</span></span> {#baldur-s-gate-3}
+
+이전에 진행하던 2회차 이어서 다시 해보고 있다. 너~무 긴 진행이라 한번에 끝낼 생각이 없음.
+익숙하지만 모든게 새롭다라는 느낌으로 진행중.
+
+
 ## <span class="org-todo todo ON">ON</span> Pillar's of Eternity I <span class="tag"><span class="steam">steam</span></span> {#pillar-s-of-eternity-i}
 
 2025년에 이어 계속
@@ -23,13 +29,13 @@ draft = false
 
 ## Kingdom Come: Deliverance II <span class="tag"><span class="xbox">xbox</span></span> {#kingdom-come-deliverance-ii}
 
-<span class="timestamp-wrapper"><span class="timestamp">[2026-01-01 Thu] </span></span> 2025 겨울 세일 구매. [Kingdom Come: Deliverance – 사가 번들](https://www.xbox.com/ko-kr/games/store/kingdom-come-deliverance-%EC%82%AC%EA%B0%80-%EB%B2%88%EB%93%A4/9pbxn355jrtr)로 구매했는데 이는 1, 2편 로얄 에디션의 합본이다.
+<span class="timestamp-wrapper"><span class="timestamp">[2026-01-01 Thu]</span></span> 2025 겨울 세일 구매. [Kingdom Come: Deliverance – 사가 번들](https://www.xbox.com/ko-kr/games/store/kingdom-come-deliverance-%EC%82%AC%EA%B0%80-%EB%B2%88%EB%93%A4/9pbxn355jrtr)로 구매했는데 이는 1, 2편 로얄 에디션의 합본이다.
 KCD1는 이전에 구매했었지만, KCD2 로얄 에디션이 할인 대상이 아니라 사가 번들로 구매하는게 저렴했다.
 
 
 ## Alan Wake 2 <span class="tag"><span class="xbox">xbox</span></span> {#alan-wake-2}
 
-<span class="timestamp-wrapper"><span class="timestamp">[2026-01-01 Thu] </span></span> [2025 겨울 세일 구매](https://www.xbox.com/ko-KR/games/store/alan-wake-2/9MTH1ZT0GK9H/0010). 1편 진행하다 그냥 뒀었는데 이 기회에 마무리 해야 겠다. 2년도 더 전이라 기억이 날런지 모르겠다.
+<span class="timestamp-wrapper"><span class="timestamp">[2026-01-01 Thu]</span></span> [2025 겨울 세일 구매](https://www.xbox.com/ko-KR/games/store/alan-wake-2/9MTH1ZT0GK9H/0010). 1편 진행하다 그냥 뒀었는데 이 기회에 마무리 해야 겠다. 2년도 더 전이라 기억이 날런지 모르겠다.
 
 
 ## <span class="org-todo done DONE">DONE</span> Alan Wake <span class="tag"><span class="steam">steam</span></span> {#alan-wake}
@@ -37,7 +43,7 @@ KCD1는 이전에 구매했었지만, KCD2 로얄 에디션이 할인 대상이 
 앨런웨이크 2 구매 기념으로, 지난번(2년전, 오래되었다) 에피소드3 까지 진행하고 멈춰있던걸 다시 시작한다.
 이 글을 쓰는 시점에 에피소드4 진행 완료했는데 에피소드별 2~3시간 정도 걸리는것 같다.
 
-<span class="timestamp-wrapper"><span class="timestamp">[2026-01-02 Fri] </span></span> 예상치 않게 앨런 웨이크가 2026년 처음 끝을 본 게임이 되었다.
+<span class="timestamp-wrapper"><span class="timestamp">[2026-01-02 Fri]</span></span> 예상치 않게 앨런 웨이크가 2026년 처음 끝을 본 게임이 되었다.
 스토리가 좀 난해하다. [[앨런 웨이크] 결말 해석](https://brunch.co.kr/@nova-textus/6) 이 맞는것 같다. 이 해석에 따르면 애당초 게임의 배경은 현실 세상은 아닌것 같다.
 액션 측면에서도 나쁘지 않고 결과적으로 스토리가 난해하긴 않지만 진행의 측면에서는 상당히 흥미로웠다.
 한글 자막이고 스팀 할인해서 DLC 포함 2000원 정도 밖에 하지 않는다.
